@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<style>
+    ul {
+  list-style-type: none;
+  margin: 10;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  
+  <li><a href="#about">About me</a></li>
+</ul>
+ <img src="kereta 1.jpg">
+
+ <h2>judul 1</h2>
+
+ <img src="gunung.jpg">
+ <p>Lorem ipsum odor amet, consectetuer adipiscing elit. Porttitor nostra mus ullamcorper rutrum imperdiet a vivamus magnis. Libero primis per eleifend nostra natoque nunc dictum. Vivamus vestibulum habitasse; turpis suspendisse egestas ex. Semper a pretium id, mi ac mus. Torquent interdum vel inceptos, tempor ante dapibus.</p>
+ Lorem ipsum odor amet, consectetuer adipiscing elit. Porttitor nostra mus ullamcorper rutrum imperdiet a vivamus magnis. Libero primis per eleifend nostra natoque nunc dictum. Vivamus vestibulum habitasse; turpis suspendisse egestas ex. Semper a pretium id, mi ac mus. Torquent interdum vel inceptos, tempor ante dapibus.
+  <a href="berita1.html">selengkapnya</a></p>
+
+ <h2>judul 2</h2>
+ 
+ <img scr="rumah.jpg">
+ <p>Lorem ipsum odor amet, consectetuer adipiscing elit. Ligula rhoncus eu cubilia mollis accumsan habitasse adipiscing. Sed cursus taciti bibendum malesuada nisl urna. Cubilia libero cursus mus odio nostra netus nec sodales. Luctus tempor ligula ut hac nisi lorem nisl. Dictum congue ex interdum platea; leo malesuada pellentesque</p>
+  <a href="berita2.html">selengkapnya</a></p>
+
+  <p>link:</p>
+  <a href="https://www.google.com/">Google</a>
+  <a href="https://www.facebook.com">facebook</a>
+  <p>link kampus:</p>
+  <a href="https://upj.ac.id/upj_bintaro">UPJ</a>
+ <body>
+</html>
